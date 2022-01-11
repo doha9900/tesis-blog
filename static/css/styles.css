@@ -1,0 +1,15 @@
+.cover-photo{
+    background: url("../img/fisi_bg.jpg") no-repeat center;
+    background-size: cover;
+    background-color: #c2fdfa;
+    height: 240px;
+}
+.cointainer{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+a:hover {
+    opacity: 0.8;
+  }
